@@ -1,7 +1,3 @@
-¡Perfecto! Sí, ese script está bárbaro para dev en modo **preview build** y simplifica todo. Ahora actualizo el `README.md` para reflejar eso, así queda todo prolijito y realista 👇
-
----
-
 ```markdown
 # 🧩 Microfrontends Starter - Vite + React + TypeScript + Module Federation
 
@@ -133,7 +129,3 @@ Este starter fue armado con 💙 usando ideas modernas de arquitectura de microf
 
 MIT
 ```
-
----
-
-¿Querés que te lo deje listo para pegar en un repo de GitHub y meterle README renderizado lindo con badges y todo? También puedo armarte el `.gitignore` o workflow de GitHub Actions si querés CI/CD 😉
