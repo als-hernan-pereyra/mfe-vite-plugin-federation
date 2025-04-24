@@ -23,7 +23,7 @@ Thumbs.db
 # Serve
 *.serve
 
-# Optional lockfiles (usa solo uno)
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
+# # Optional lockfiles (usa solo uno)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
