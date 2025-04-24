@@ -27,6 +27,13 @@ jobs:
         with:
           node-version: 18
 
+      - name: 🔍 Check for package-lock.json
+        run: |
+          if [ ! -f package-lock.json ]; then
+            echo "Error: package-lock.json is missing in ${{ matrix.project }}";
+            exit 1;
+          fi
+
       - name: 📦 Install deps
         run: npm ci
 
