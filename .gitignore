@@ -1,0 +1,29 @@
+# Node
+node_modules/
+dist/
+.vite/
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+
+# Output
+*.tsbuildinfo
+
+# Serve
+*.serve
+
+# Optional lockfiles (usa solo uno)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
