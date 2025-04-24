@@ -12,7 +12,7 @@ jobs:
 
     strategy:
       matrix:
-        project: [host, remote, remote2]
+        project: [host, remote]
 
     defaults:
       run:
